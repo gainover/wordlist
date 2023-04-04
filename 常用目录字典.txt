@@ -68,7 +68,7 @@
 /cmd
 /cmshtgl
 /company/
-//
+/customer/
 /cycnadmin
 /data/
 /database/
